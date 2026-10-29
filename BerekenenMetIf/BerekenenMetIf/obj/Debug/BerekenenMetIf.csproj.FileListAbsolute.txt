@@ -1,0 +1,7 @@
+C:\Users\idktw\source\repos\BerekenenMetIf\BerekenenMetIf\bin\Debug\BerekenenMetIf.exe.config
+C:\Users\idktw\source\repos\BerekenenMetIf\BerekenenMetIf\bin\Debug\BerekenenMetIf.exe
+C:\Users\idktw\source\repos\BerekenenMetIf\BerekenenMetIf\bin\Debug\BerekenenMetIf.pdb
+C:\Users\idktw\source\repos\BerekenenMetIf\BerekenenMetIf\obj\Debug\BerekenenMetIf.csproj.AssemblyReference.cache
+C:\Users\idktw\source\repos\BerekenenMetIf\BerekenenMetIf\obj\Debug\BerekenenMetIf.csproj.CoreCompileInputs.cache
+C:\Users\idktw\source\repos\BerekenenMetIf\BerekenenMetIf\obj\Debug\BerekenenMetIf.exe
+C:\Users\idktw\source\repos\BerekenenMetIf\BerekenenMetIf\obj\Debug\BerekenenMetIf.pdb
